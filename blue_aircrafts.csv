@@ -1,0 +1,13 @@
+Aircraft,Type,Max Range
+Boeing 787,Passenger Jet,7635
+Airbus A330,Passenger Jet,6350
+Dorier 228,Multi Prop,913
+Bae Jetstream 3,Multi Prop,680
+Aviocar,Multi Prop,519
+Beechcraft 1900,Multi Prop,382
+Cessna 172,Single Prop,696
+Blackhawk,Rotary,1200
+Eurocopter,Rotary,395
+Bell 47,Rotary,258
+Robinson R22,Rotary,209
+ChineseWeather,Ballon,3596

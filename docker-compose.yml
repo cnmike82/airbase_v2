@@ -1,0 +1,8 @@
+version: "3.9"
+services:
+  webapp:
+    build: 
+      context: .
+      dockerfile: airbase_eu.dockerfile
+    image: airbase:v1
+
